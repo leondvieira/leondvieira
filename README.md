@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 -->
 
 <h1 align = "justify"> Hi there, I'm Leonardo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leondvieira&color=red" alt="Profile views" /> </p>
 
 - 🔭 I’m currently working on Porter Group
 - 📚 I’m currently studying Information Systems at Instituto Federal Catarinense.
 - 🌱 I’m currently learning about Artificial Intelligence.
 - ⚡ I like cycling and talking about cars.
 
-
+<br>
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=leondvieira&show_icons=true&theme=dracula" alt="leondvieira's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leondvieira&layout=compact&theme=dracula" alt="leondvieira's most languages"/>
 </p>
+
+<br>
